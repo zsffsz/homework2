@@ -1,0 +1,1 @@
+(()=>{var r={27:r=>{const e=document.querySelector("#a");r.exports=e}},e={};function t(o){var s=e[o];if(void 0!==s)return s.exports;var u=e[o]={exports:{}};return r[o](u,u.exports,t),u.exports}(()=>{"use strict";t(27).style.backgroundColor="blue"})()})();
